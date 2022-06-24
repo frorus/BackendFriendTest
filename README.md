@@ -8,4 +8,4 @@ BackendFriend/appsettings.Development.json строка "DefaultConnection"
 MSSQL Server
 
 ### Запуск проекта:  
-Клонировать репозиторий и запустить (может понадобиться Visual Studio и MSSQL Server Express )
+Клонировать репозиторий и запустить (может понадобиться Visual Studio и MSSQL Server Express)
